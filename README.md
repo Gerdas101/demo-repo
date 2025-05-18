@@ -9,4 +9,4 @@ some more text...
 
 ## Local developement
 
-1. open index.html
+1. open index.html in yor browsers
